@@ -1,2 +1,2 @@
 # Data-Science-Portfolio
-My data science projects — machine learning, EDA, and data analysis notebooks
+My data science projects — Machine Learning, EDA, and Data Analysis notebooks
